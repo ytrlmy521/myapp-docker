@@ -1,9 +1,9 @@
 <?php
 
 
-header("Access-Control-Allow-Origin: http://localhost:8080");
+header("Access-Control-Allow-Origin: http://10.0.63.120:8089");
 header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
-header("Access-Control-Allow-Headers: Content-Type");
+header("Access-Control-Allow-Headers: Content-Type, Authorization, userid");
 header("Content-Type: application/json");
 header("Access-Control-Allow-Credentials: true"); // 允许携带 Cookie
 
