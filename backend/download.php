@@ -1,9 +1,6 @@
 <?php
 
-header("Access-Control-Allow-Origin: http://10.0.63.120:8089");
-header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
-header("Access-Control-Allow-Headers: Content-Type, Authorization, userid");
-header("Access-Control-Allow-Credentials: true");
+// 注意：跨域(CORS)相关设置已移至nginx配置
 
 require_once 'db.php'; // 数据库连接文件
 

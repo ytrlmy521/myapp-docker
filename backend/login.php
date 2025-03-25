@@ -1,16 +1,9 @@
 <?php
 
 
-header("Access-Control-Allow-Origin: http://10.0.63.120:8089");
-header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
-header("Access-Control-Allow-Headers: Content-Type, Authorization, userid");
 header("Content-Type: application/json");
-header("Access-Control-Allow-Credentials: true"); // 允许携带 Cookie
 
-if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
-    http_response_code(200);
-    exit;
-}
+// 注意：跨域(CORS)相关设置已移至nginx配置
 
 $conn = require_once 'db.php';
 

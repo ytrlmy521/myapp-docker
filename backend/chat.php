@@ -1,20 +1,10 @@
 <?php
 
 
-// 允许所有域名发起请求
-header("Access-Control-Allow-Origin: http://10.0.63.120:8089");
-// 允许的 HTTP 方法
-header('Access-Control-Allow-Methods: POST, GET, OPTIONS');
-// 允许的请求头
-header('Access-Control-Allow-Headers: Content-Type, Authorization, userid');
-// 允许跨域时携带 Cookie
-header('Access-Control-Allow-Credentials: true');
+// 内容类型设置
+header('Content-Type: application/json');
 
-// 处理预检请求（OPTIONS 请求）
-if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
-    http_response_code(200);
-    exit();
-}
+// 注意：跨域(CORS)相关设置已移至nginx配置
 header('Content-Type: application/json');
 
 // 获取前端发送的数据
