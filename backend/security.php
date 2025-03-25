@@ -4,7 +4,7 @@
 header("Content-Type: application/json; charset=UTF-8");
 
 // 允许跨域请求（根据需要调整）
-header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Origin: http://10.0.63.120:8089");
 header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
 header("Access-Control-Allow-Headers: Content-Type, Authorization, userid");
 header("Access-Control-Allow-Credentials: true");
