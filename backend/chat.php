@@ -2,11 +2,11 @@
 
 
 // 允许指定的域名发起请求
-header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Origin: http://10.0.63.120:8089");
 // 允许的 HTTP 方法
 header('Access-Control-Allow-Methods: POST, GET, OPTIONS');
 // 允许的请求头
-header('Access-Control-Allow-Headers: Content-Type, Authorization');
+header('Access-Control-Allow-Headers: Content-Type, Authorization, userid');
 // 允许跨域时携带 Cookie
 header('Access-Control-Allow-Credentials: true');
 
