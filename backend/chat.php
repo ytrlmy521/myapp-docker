@@ -23,8 +23,8 @@ $payload = json_encode([
     'messages' => $data['messages'],
 ]);
 
-// 调用远程接口
-$url = 'http://8843843nmph5.vicp.fun/v1/chat/completions';
+// 调用远程接口（通过nginx反向代理）
+$url = '/external-api/v1/chat/completions';
 $ch = curl_init($url);
 
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);

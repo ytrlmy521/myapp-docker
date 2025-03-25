@@ -347,7 +347,7 @@ function buildFileTree(array $files): array {
  * @return string API 返回结果
  */
 function callExternalAPI(string $prompt, string $content): string {
-    $url = 'http://8843843nmph5.vicp.fun/v1/chat/completions';
+    $url = '/external-api/v1/chat/completions';
     $data = [
         'model' => 'qwen2.5-coder-instruct',
         'messages' => [
