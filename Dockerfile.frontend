@@ -1,6 +1,7 @@
 FROM nginx:alpine
 
 # 拷贝 dist 到 nginx html 目录
-COPY dist/ /usr/share/nginx/html
+COPY frontend/dist/ /usr/share/nginx/html
 
-# 你可以添加 nginx.conf 覆盖默认配置，如需要
+# 拷贝 nginx 配置文件到容器内
+COPY nginx.conf /etc/nginx/nginx.conf
