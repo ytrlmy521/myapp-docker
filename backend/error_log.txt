@@ -1,0 +1,108 @@
+[17-Jan-2025 13:36:49 Europe/Berlin] PHP Warning:  Undefined variable $file_count in E:\XAMPP\htdocs\api\security.php on line 92
+[17-Jan-2025 13:37:05 Europe/Berlin] PHP Warning:  Undefined variable $file_count in E:\XAMPP\htdocs\api\security.php on line 92
+[17-Jan-2025 13:37:58 Europe/Berlin] PHP Warning:  Undefined variable $file_count in E:\XAMPP\htdocs\api\security.php on line 92
+[17-Jan-2025 13:39:23 Europe/Berlin] PHP Warning:  Undefined variable $file_count in E:\XAMPP\htdocs\api\security.php on line 92
+[17-Jan-2025 13:39:23 Europe/Berlin] PHP Warning:  Undefined variable $uploaded_files in E:\XAMPP\htdocs\api\security.php on line 115
+[17-Jan-2025 13:39:23 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in E:\XAMPP\htdocs\api\security.php on line 115
+[17-Jan-2025 13:39:23 Europe/Berlin] PHP Warning:  Undefined variable $uploaded_files in E:\XAMPP\htdocs\api\security.php on line 222
+[17-Jan-2025 13:39:23 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in E:\XAMPP\htdocs\api\security.php on line 222
+[17-Jan-2025 13:42:44 Europe/Berlin] PHP Warning:  Undefined variable $file_count in E:\XAMPP\htdocs\api\security.php on line 92
+[17-Jan-2025 13:42:44 Europe/Berlin] PHP Warning:  Undefined variable $uploaded_files in E:\XAMPP\htdocs\api\security.php on line 115
+[17-Jan-2025 13:42:44 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in E:\XAMPP\htdocs\api\security.php on line 115
+[17-Jan-2025 13:42:44 Europe/Berlin] PHP Warning:  Undefined variable $uploaded_files in E:\XAMPP\htdocs\api\security.php on line 222
+[17-Jan-2025 13:42:44 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in E:\XAMPP\htdocs\api\security.php on line 222
+[26-Feb-2025 16:08:34 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 318
+[26-Feb-2025 16:09:50 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 318
+[26-Feb-2025 16:52:44 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 329
+[26-Feb-2025 16:52:58 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 329
+[26-Feb-2025 17:00:28 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 325
+[26-Feb-2025 17:02:26 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 325
+[26-Feb-2025 17:03:36 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 325
+[26-Feb-2025 17:20:10 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 325
+[26-Feb-2025 17:29:12 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 326
+[26-Feb-2025 18:07:05 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 335
+[26-Feb-2025 18:07:12 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 335
+[26-Feb-2025 18:09:03 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 335
+[26-Feb-2025 18:09:06 Europe/Berlin] PHP Warning:  file_get_contents(http://8843843nmph5.vicp.fun/v1/chat/completions): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in E:\XAMPP\htdocs\api\security.php on line 335
+[01-Mar-2025 09:33:42 Europe/Berlin] PHP Warning:  Undefined variable $apiResponse in E:\XAMPP\htdocs\api\security.php on line 64
+[01-Mar-2025 09:33:42 Europe/Berlin] PHP Warning:  Undefined variable $apiResponse in E:\XAMPP\htdocs\api\security.php on line 84
+[01-Mar-2025 09:57:58 Europe/Berlin] PHP Warning:  Undefined variable $file_name in E:\XAMPP\htdocs\api\security.php on line 221
+[01-Mar-2025 09:57:58 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: saveToDatabaseZip(): Argument #2 ($file_name) must be of type string, null given, called in E:\XAMPP\htdocs\api\security.php on line 221 and defined in E:\XAMPP\htdocs\api\security.php:442
+Stack trace:
+#0 E:\XAMPP\htdocs\api\security.php(221): saveToDatabaseZip('f3554002-9a3b-4...', NULL, 'PK\x03\x04\x14\x00\x02\x08\x08\x00=\x87aZ\xDE...')
+#1 {main}
+  thrown in E:\XAMPP\htdocs\api\security.php on line 442
+[01-Mar-2025 09:58:37 Europe/Berlin] PHP Warning:  Undefined variable $file_name in E:\XAMPP\htdocs\api\security.php on line 221
+[01-Mar-2025 09:58:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: saveToDatabaseZip(): Argument #2 ($file_name) must be of type string, null given, called in E:\XAMPP\htdocs\api\security.php on line 221 and defined in E:\XAMPP\htdocs\api\security.php:442
+Stack trace:
+#0 E:\XAMPP\htdocs\api\security.php(221): saveToDatabaseZip('95f54778-d9c4-4...', NULL, 'PK\x03\x04\x14\x00\x02\x08\x08\x00R\x87aZ\\...')
+#1 {main}
+  thrown in E:\XAMPP\htdocs\api\security.php on line 442
+[01-Mar-2025 10:05:56 Europe/Berlin] PHP Warning:  Undefined variable $file_name in E:\XAMPP\htdocs\api\security.php on line 221
+[01-Mar-2025 10:05:56 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: saveToDatabaseZip(): Argument #2 ($file_name) must be of type string, null given, called in E:\XAMPP\htdocs\api\security.php on line 221 and defined in E:\XAMPP\htdocs\api\security.php:442
+Stack trace:
+#0 E:\XAMPP\htdocs\api\security.php(221): saveToDatabaseZip('e2eabd1e-6867-4...', NULL, 'PK\x03\x04\x14\x00\x02\x08\x08\x00\xBC\x88aZ\\...')
+#1 {main}
+  thrown in E:\XAMPP\htdocs\api\security.php on line 442
+[01-Mar-2025 10:07:29 Europe/Berlin] PHP Warning:  Undefined variable $file_name in E:\XAMPP\htdocs\api\security.php on line 221
+[01-Mar-2025 10:07:29 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: saveToDatabaseZip(): Argument #2 ($file_name) must be of type string, null given, called in E:\XAMPP\htdocs\api\security.php on line 221 and defined in E:\XAMPP\htdocs\api\security.php:442
+Stack trace:
+#0 E:\XAMPP\htdocs\api\security.php(221): saveToDatabaseZip('bb69544e-6e33-4...', NULL, 'PK\x03\x04\x14\x00\x02\x08\x08\x00\xEE\x88aZ$...')
+#1 {main}
+  thrown in E:\XAMPP\htdocs\api\security.php on line 442
+[01-Mar-2025 10:15:32 Europe/Berlin] PHP Warning:  Undefined variable $file_name in E:\XAMPP\htdocs\api\security.php on line 245
+[01-Mar-2025 10:15:32 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: saveToDatabaseZip(): Argument #2 ($file_name) must be of type string, null given, called in E:\XAMPP\htdocs\api\security.php on line 245 and defined in E:\XAMPP\htdocs\api\security.php:442
+Stack trace:
+#0 E:\XAMPP\htdocs\api\security.php(245): saveToDatabaseZip('400c710a-1c62-4...', NULL, ' ```cpp\n// \xE4\xBF\xAE\xE5...')
+#1 {main}
+  thrown in E:\XAMPP\htdocs\api\security.php on line 442
+[01-Mar-2025 10:21:57 Europe/Berlin] PHP Warning:  Undefined variable $file_name in E:\XAMPP\htdocs\api\security.php on line 245
+[01-Mar-2025 10:21:57 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: saveToDatabaseZip(): Argument #2 ($file_name) must be of type string, null given, called in E:\XAMPP\htdocs\api\security.php on line 245 and defined in E:\XAMPP\htdocs\api\security.php:442
+Stack trace:
+#0 E:\XAMPP\htdocs\api\security.php(245): saveToDatabaseZip('27b7509a-e5bb-4...', NULL, ' ```cpp\n#includ...')
+#1 {main}
+  thrown in E:\XAMPP\htdocs\api\security.php on line 442
+[01-Mar-2025 10:44:21 Europe/Berlin] PHP Warning:  Attempt to read property "connect_error" on bool in E:\XAMPP\htdocs\api\security.php on line 453
+[01-Mar-2025 10:44:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on bool in E:\XAMPP\htdocs\api\security.php:458
+Stack trace:
+#0 E:\XAMPP\htdocs\api\security.php(252): saveToDatabaseZip('9d093a82-4d98-4...', 'test.php', '```php\n<?php\n$c...')
+#1 {main}
+  thrown in E:\XAMPP\htdocs\api\security.php on line 458
+[01-Mar-2025 10:46:33 Europe/Berlin] PHP Warning:  Attempt to read property "connect_error" on bool in E:\XAMPP\htdocs\api\security.php on line 453
+[01-Mar-2025 10:46:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on bool in E:\XAMPP\htdocs\api\security.php:458
+Stack trace:
+#0 E:\XAMPP\htdocs\api\security.php(252): saveToDatabaseZip('6d3dac53-a614-4...', 'test.php', '<?php\n$conn = r...')
+#1 {main}
+  thrown in E:\XAMPP\htdocs\api\security.php on line 458
+[01-Mar-2025 10:49:12 Europe/Berlin] PHP Warning:  Attempt to read property "connect_error" on bool in E:\XAMPP\htdocs\api\security.php on line 453
+[01-Mar-2025 10:49:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on bool in E:\XAMPP\htdocs\api\security.php:458
+Stack trace:
+#0 E:\XAMPP\htdocs\api\security.php(222): saveToDatabaseZip('d1444722-2162-4...', 'test (3).zip', 'PK\x03\x04\x14\x00\x02\x08\x08\x00&\x8EaZ\\...')
+#1 {main}
+  thrown in E:\XAMPP\htdocs\api\security.php on line 458
+[01-Mar-2025 14:34:28 Europe/Berlin] PHP Warning:  file_get_contents(FileDisplay.vue): Failed to open stream: No such file or directory in E:\XAMPP\htdocs\api\security.php on line 259
+[01-Mar-2025 15:43:09 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in E:\XAMPP\htdocs\api\security.php:214
+Stack trace:
+#0 {main}
+  thrown in E:\XAMPP\htdocs\api\security.php on line 214
+[01-Mar-2025 15:48:05 Europe/Berlin] PHP Fatal error:  Cannot redeclare addToZip() (previously declared in E:\XAMPP\htdocs\api\security.php:493) in E:\XAMPP\htdocs\api\security.php on line 493
+[01-Mar-2025 15:58:39 Europe/Berlin] PHP Warning:  file_get_contents(test123123123.php): Failed to open stream: No such file or directory in E:\XAMPP\htdocs\api\security.php on line 249
+[01-Mar-2025 15:58:39 Europe/Berlin] PHP Warning:  unlink(test123123123.php): No such file or directory in E:\XAMPP\htdocs\api\security.php on line 254
+[01-Mar-2025 16:00:34 Europe/Berlin] PHP Warning:  file_get_contents(test123123123.php): Failed to open stream: No such file or directory in E:\XAMPP\htdocs\api\security.php on line 249
+[01-Mar-2025 16:07:41 Europe/Berlin] PHP Warning:  file_get_contents(FileDisplay.vue): Failed to open stream: No such file or directory in E:\XAMPP\htdocs\api\security.php on line 249
+[01-Mar-2025 16:07:57 Europe/Berlin] PHP Warning:  file_get_contents(shumeipai.txt): Failed to open stream: No such file or directory in E:\XAMPP\htdocs\api\security.php on line 249
+[01-Mar-2025 16:07:58 Europe/Berlin] PHP Warning:  file_get_contents(test123123123.php): Failed to open stream: No such file or directory in E:\XAMPP\htdocs\api\security.php on line 249
+[01-Mar-2025 16:11:41 Europe/Berlin] PHP Warning:  file_get_contents(09fee44f89591e656d70266292b6cde.webp): Failed to open stream: No such file or directory in E:\XAMPP\htdocs\api\security.php on line 249
